@@ -1,4 +1,21 @@
 .cards {
   border: solid 1px black;
   height: 200px;
+  border-radius: 10%;
+  background-color: lightblue;
+  padding-top: 50px;
+}
+
+p {
+  display: none;
+  text-align: center;
+
+}
+
+.active {
+  display: none;
+}
+
+h1 {
+  text-align: center;
 }
